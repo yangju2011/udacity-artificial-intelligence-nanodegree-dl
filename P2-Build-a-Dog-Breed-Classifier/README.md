@@ -1,0 +1,3 @@
+- Build a Convolutional Neural Networks (CNN) pipeline to process real-world, user-supplied images. Given an image of a dog, identify an estimate of its breed. Given an image of a human, identify the resembling dog breed. 
+- Apply transfer learning using ResNet50 and achieve accuracy of 80%
+- Skeleton code from https://github.com/udacity/dog-project
