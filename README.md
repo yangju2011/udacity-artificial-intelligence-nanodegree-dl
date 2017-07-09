@@ -2,6 +2,7 @@ This repository contains project work for Udacity's Artificial Intelligence Nano
 
 Projects:
 - Project 1: Build a Deep Neural Network
+- Project 2: Build a Dog Breed Classifier
 
 Courses: Deep Learning and Applications
 - Deep Neural Network
